@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Step-2 CSS codes*/
+.step-2-header {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.step-2-h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.step-2-h2 {
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.step-2-h3 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.step-2-p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.step-2-footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*Discography CSS codes*/
+.discography-header {
+    background-color: rgb(18, 0, 73);
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: "Shadows Into Light";    
+}
+
+.discography-h1 {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    font-family: "Shadows Into Light";
+}
+
+.discography-p1 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+
+
+/*Blocks*/
+.discography-block {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(18, 0, 73);
+}
+
+.discography-h2-jazznightblock {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    color: rgb(235, 200, 38);
+    font-family: "Roboto";
+    font-size: 50px;
+}
+
+.discography-h3-jazznightblock {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: rgb(235, 200, 38);
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.discography-h2-bluejazz {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    color: rgb(218, 71, 67);
+    font-family: "Roboto";
+    font-size: 50px;
+}
+
+.discography-h3-bluejazz {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    color: rgb(218, 71, 67);
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.discography-p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.discography-img {
+    bottom: 0;
+    margin: 20px;
+    width: 250px;  
+    height: auto;  
+}
+
+.discography-footer {
+    background-color: rgb(18, 0, 73);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Shadows Into Light";
+}
+
+/*Line image*/
+.row {
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(18, 0, 73);
+    padding: 15px;
+}
+
+.column {
+    flex: 20%;
+    padding: 10px;
+}
+
+.discography-br-1 {
+    padding-top: 100px;
+}
+
+
+.discography-br-2 {
+    padding-top: 50px;
+}
